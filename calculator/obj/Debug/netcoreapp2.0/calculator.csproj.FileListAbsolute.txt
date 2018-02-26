@@ -1,0 +1,11 @@
+c:\users\dell\source\repos\calculator\calculator\bin\Debug\netcoreapp2.0\calculator.deps.json
+c:\users\dell\source\repos\calculator\calculator\bin\Debug\netcoreapp2.0\calculator.runtimeconfig.json
+c:\users\dell\source\repos\calculator\calculator\bin\Debug\netcoreapp2.0\calculator.runtimeconfig.dev.json
+c:\users\dell\source\repos\calculator\calculator\bin\Debug\netcoreapp2.0\calculator.dll
+c:\users\dell\source\repos\calculator\calculator\bin\Debug\netcoreapp2.0\calculator.pdb
+c:\users\dell\source\repos\calculator\calculator\obj\Debug\netcoreapp2.0\calculator.csprojResolveAssemblyReference.cache
+c:\users\dell\source\repos\calculator\calculator\obj\Debug\netcoreapp2.0\calculator.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\calculator\calculator\obj\Debug\netcoreapp2.0\calculator.AssemblyInfoInputs.cache
+c:\users\dell\source\repos\calculator\calculator\obj\Debug\netcoreapp2.0\calculator.AssemblyInfo.cs
+c:\users\dell\source\repos\calculator\calculator\obj\Debug\netcoreapp2.0\calculator.dll
+c:\users\dell\source\repos\calculator\calculator\obj\Debug\netcoreapp2.0\calculator.pdb
